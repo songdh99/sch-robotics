@@ -1,0 +1,42 @@
+[33mcommit acce5cbd3601fdff588429eec2cd151933762cdb[m[33m ([m[1;36mHEAD -> [m[1;32mmake-list-operators[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: DaeHeon.song <songdh99@gmail.com>
+Date:   Thu Nov 11 15:50:48 2021 +0900
+
+    ove files
+
+[33mcommit f7db4114601d5609afef84a0d52a90727c25c00f[m
+Merge: c830b78 fbb746d
+Author: DaeHeon.song <songdh99@gmail.com>
+Date:   Thu Nov 11 15:45:57 2021 +0900
+
+    fix conflict
+
+[33mcommit c830b7845851bde6c6aa0ecf6cc3de7976afa77c[m
+Author: DaeHeon.song <songdh99@gmail.com>
+Date:   Thu Nov 11 15:38:50 2021 +0900
+
+    edit anthing.py
+
+[33mcommit fbb746d427d39be3405804b5bc5a27f47ac01a0d[m
+Author: DaeHeon.song <songdh99@gmail.com>
+Date:   Thu Nov 11 15:19:41 2021 +0900
+
+    remove and ignore pyc file
+
+[33mcommit 77dfff4115ea7ec1ae5c49e27d1728e3783ff9ce[m
+Author: DaeHeon.song <songdh99@gmail.com>
+Date:   Thu Nov 11 15:10:45 2021 +0900
+
+    make add lists
+
+[33mcommit 3eb76f15cf5445e32ca40b46ac0d9d242e1c6aae[m
+Author: DaeHeon.song <songdh99@gmail.com>
+Date:   Thu Nov 11 14:31:09 2021 +0900
+
+    addnew file
+
+[33mcommit 750ca6ead4f5af77e496c8fa6be192bbac72c242[m
+Author: songdh99 <94097689+songdh99@users.noreply.github.com>
+Date:   Thu Nov 11 14:10:24 2021 +0900
+
+    Initial commit
